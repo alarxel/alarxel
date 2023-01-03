@@ -2,7 +2,7 @@
 
 My name is Alan, I'm from Guatemala and I'm a Engineer Software.
 
-* Currently workgin for IMSA.
+* Currently workin for IMSA.
 
 <!--
 **alarxel/alarxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
