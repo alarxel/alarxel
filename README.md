@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alan, I'm from Guatemala and I'm a Engineer Software.
+My name is Alan, I'm from Guatemala and I'm an Engineer Software.
 
 * Currently workin for IMSA.
 
