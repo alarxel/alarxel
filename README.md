@@ -1,10 +1,13 @@
 ### Hello 👋
 
-My name is Alan, I'm from Guatemala and I'm an Engineer Software.
+My name is Alan, I'm from Guatemala and I like to say I´m a kind of Geo Data Engineer.
 
-* Currently workin for IMSA.
+* Currently working for IMSA.
 
 ### Skills
+SQL 
+Python
+C#
 
 
 ### Contact
