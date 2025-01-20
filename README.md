@@ -2,7 +2,7 @@
 
 My name is Alan, I'm from Guatemala and I like to say I´m a kind of Geo Data Engineer.
 
-* Currently working for IMSA.
+* Currently working for Magdalena.
 
 ### Skills
 SQL 
